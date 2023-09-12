@@ -18,7 +18,9 @@ VALUES
     (107, 'Ana Alencar', 'Secretaria', 'RH'),
     (108, 'Vanessa Gomes', 'Contadora', 'ADM'),
     (109, 'Jonas da  Silva', 'Promotor', 'MKT'),
-    (110, 'Romeu de Nobrega', 'Desenvolvedor', 'TI');
+    (110, 'Romeu de Nobrega', 'Desenvolvedor', 'TI'),
+    (111, 'Romeu de Nobrega', 'Desenvolvedor', 'MKT'),
+    (112, 'Bianca Costa', 'Desenvolvedora', 'TI');
 
 INSERT INTO projeto (sigla_projeto, nome_projeto, codigo_funcionario, sigla_depto)
 VALUES
