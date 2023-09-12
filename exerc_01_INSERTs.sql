@@ -8,7 +8,7 @@ VALUES
 
 INSERT INTO funcionario (codigo_funcionario, nome_funcionario, cargo, sigla_depto)
 VALUES
-	(100, 'Fernanda Lima', 'Vendas', 'VENDAS'),
+    (100, 'Fernanda Lima', 'Vendas', 'VENDAS'),
     (101, 'Fabio Santos', 'Desenvolvedor', 'TI'),
     (102, 'Bianca Costa', 'Desenvolvedora', 'TI'),
     (103, 'Carlos Oliveira', 'Vendedor', 'VENDAS'),
